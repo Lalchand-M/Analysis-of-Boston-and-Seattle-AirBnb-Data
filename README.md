@@ -71,5 +71,5 @@ Training the machine learning model we can examine how amenities plays an import
 
 * Seattle boast some extra amenites when compared to Boston, like Amazon Echo, Wooden Floors, Dinning Area, and Memory Foam Mattress. The choise of these amenities are guest dependent therefore hosts provide these facilities as much as they can. First-aid-kit is looked as an Very important add-on in Seattle.
 
-![](/images/image1.png)
+![](/images/image4.png)
 
