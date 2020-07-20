@@ -1,4 +1,4 @@
-# [Project 1: Analysis of Boston and Seattle AirBnb Data](https://github.com/Lalchand-M/Analysis-of-Boston-and-Seattle-AirBnb-Data)
+# Analysis of Boston and Seattle AirBnb Data](https://github.com/Lalchand-M/Analysis-of-Boston-and-Seattle-AirBnb-Data)
 
 # Project Overview:
 
